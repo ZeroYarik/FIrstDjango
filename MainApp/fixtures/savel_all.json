@@ -1,0 +1,82 @@
+[
+  {
+    "model": "MainApp.item",
+    "pk": 1,
+    "fields": {
+      "name": "Кроссовки",
+      "brand": "adiddas",
+      "count": 5,
+      "description": "Изначальное описание"
+    }
+  },
+  {
+    "model": "MainApp.item",
+    "pk": 2,
+    "fields": {
+      "name": "Яблоко",
+      "brand": "Apple",
+      "count": 100,
+      "description": "Изначальное описание"
+    }
+  },
+  {
+    "model": "MainApp.item",
+    "pk": 3,
+    "fields": {
+      "name": "Телефон",
+      "brand": "Samsung",
+      "count": 20,
+      "description": "Изначальное описание"
+    }
+  },
+  {
+    "model": "MainApp.item",
+    "pk": 4,
+    "fields": {
+      "name": "Мяч",
+      "brand": "Nike",
+      "count": 53,
+      "description": "Изначальное описание"
+    }
+  },
+  {
+    "model": "MainApp.item",
+    "pk": 5,
+    "fields": {
+      "name": "Телевизор",
+      "brand": "LG",
+      "count": 5,
+      "description": "Изначальное описание"
+    }
+  },
+  {
+    "model": "MainApp.item",
+    "pk": 6,
+    "fields": {
+      "name": "Наушники",
+      "brand": "Sehnheiser",
+      "count": 27,
+      "description": "Изначальное описание"
+    }
+  },
+  {
+    "model": "MainApp.item",
+    "pk": 7,
+    "fields": {
+      "name": "Кепка",
+      "brand": "Reebok",
+      "count": 0,
+      "description": "Изначальное описание"
+    }
+  },
+  {
+    "model": "MainApp.item",
+    "pk": 8,
+    "fields": {
+      "name": "Велосипед",
+      "brand": "Stels",
+      "count": 5,
+      "description": "Описание велосипеда"
+    }
+  }
+]
